@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Biodata/app/src/main/res/layout/activity_main.xml" value="0.1453804347826087" />
+        <entry key="..\:/Android Studio/Biodata/app/src/main/res/drawable/lingkaran.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/Biodata/app/src/main/res/drawable/lingkaran2.xml" value="0.2075" />
+        <entry key="..\:/Android Studio/Biodata/app/src/main/res/drawable/lingkaran3.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Biodata/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Biodata/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1475" />
+        <entry key="..\:/Biodata/app/src/main/res/drawable/lingkaran.xml" value="0.1475" />
+        <entry key="..\:/Biodata/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
